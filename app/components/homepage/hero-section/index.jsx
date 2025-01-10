@@ -111,7 +111,7 @@ function HeroSection() {
                 <span className="text-amber-300">Anshika Goel</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
-              <div className="ml-4 lg:ml-8 mr-2">
+              {/* <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">C++</span>
@@ -132,7 +132,93 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Rust</span>
                 <span className="text-gray-400">{"'],"}</span>
+              </div> */}
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-white">Skills:</span>
+                <span className="text-gray-400">{`{`}</span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Programming Languages"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">C++</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Rust</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">JavaScript</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">TypeScript</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Blockchain Technologies"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">ICP</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Ethereum</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">DeFi Protocols</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Frontend Development"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">React</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Redux</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Next.js</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Backend Development"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">Node.js</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Express.js</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Databases"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">MongoDB</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">MySQL</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"DevOps"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">Docker</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">Git</span>
+                  <span className="text-gray-400">{`'],`}</span>
+                </span>
+                <br />
+                <span className="ml-4">
+                  <span className="text-gray-300">"Other Skills"</span>
+                  <span className="text-gray-400">: </span>
+                  <span className="text-gray-400">{`['`}</span>
+                  <span className="text-amber-300">Problem Solving</span>
+                  <span className="text-gray-400">{"', '"}</span>
+                  <span className="text-amber-300">API Design</span>
+                  <span className="text-gray-400">{`']`}</span>
+                </span>
+                <br />
+                <span className="text-gray-400">{`}`}</span>
               </div>
+
+
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
                 <span className="text-orange-400">true</span>

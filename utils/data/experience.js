@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Blockchain Backend Developer Intern',
+    title: 'Blockchain Backend Developer',
     company: "Quadb Technology",
     duration: "(Feb 2024 - Present)"
   },
