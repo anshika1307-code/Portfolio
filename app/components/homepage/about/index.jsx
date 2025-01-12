@@ -22,12 +22,12 @@ function AboutSection() {
             {personalData.description}
           </p> */}
          <p className="text-gray-200 text-sm lg:text-lg">
-  Hi, I’m <strong>Anshika Goel</strong>, a <strong>Blockchain Developer</strong> with a Bachelor's in <strong>CSE</strong> from <strong>Raj Kumar Goel Institute of Technology, Ghaziabad</strong>. 
+  Hi, I&apos;m <strong>Anshika Goel</strong>, a <strong>Blockchain Developer</strong> with a Bachelor&apos;s in <strong>CSE</strong> from <strong>Raj Kumar Goel Institute of Technology, Ghaziabad</strong>. 
   Currently, I work at <strong>QuadB Technology</strong> specializing in <strong>Web3</strong> and <strong>Blockchain</strong> development, focusing on decentralized applications (DApps) and DeFi protocols.
 </p>
 
 <p className="text-gray-200 text-sm lg:text-lg">
-  I’m passionate about integrating <strong>AI with Web3</strong>, and I’ve trained blockchain interns to help grow the space. I have a strong background in problem-solving, logic building, and optimizing solutions.
+  I&apos;m passionate about integrating <strong>AI with Web3</strong>, and I&apos;ve trained blockchain interns to help grow the space. I have a strong background in problem-solving, logic building, and optimizing solutions.
 </p>
 
 <p className="text-gray-200 text-sm lg:text-lg">

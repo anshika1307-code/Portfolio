@@ -92,7 +92,7 @@ async function ProjectDetails({ params }) {
       </div>
       <div className="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8 bg-[#1b203e] rounded-lg">
         <div className="flex flex-col items-center">
-          <img src={project.cover_image} alt={project.title} className="w-full rounded-lg mb-4" />
+          <Image src={project.cover_image} alt={project.title} className="w-full rounded-lg mb-4" />
           <div className="text-white text-lg">
             <p><strong>Duration:</strong> {project.duration}</p>
             <p><strong>Published At:</strong> {new Date(project.published_at).toLocaleDateString()}</p>
