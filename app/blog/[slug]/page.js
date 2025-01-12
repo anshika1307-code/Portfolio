@@ -28,6 +28,7 @@
 
 // @flow strict
 import { personalData } from "@/utils/data/personal-data";
+import Image from "next/image";
 
 // async function getProject(slug) {
 //   const res = await fetch(`https://api.example.com/projects/${personalData.devUsername}/${slug}`)
